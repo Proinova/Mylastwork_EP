@@ -1,0 +1,87 @@
+/*index*/
+ #boxModel {
+   padding-top: 25px padding-bottom: 15px;
+   padding-left: 60px;
+   padding-right: 60px;
+   border: 6px solid hsl(30, 50%, 55%);
+ }
+ div p {
+   color:#805500;
+   margin-top: 5%;
+ }
+ p {
+   font-family: "AucaRegular", "CovalRegular", sans-serif;
+   font-weight: normal;
+   font-style: normal;
+   color: #994d00;
+   font-size:3vw;
+   text-align: justify;
+ }
+ body {
+   background-color: #fff2e6;
+ 	 padding-top: 50px;
+ }
+ #tablica:link, #tablica:visited {
+   background-color: rgb(255, 255, 255);
+   color: black;
+   border: 1px solid green;
+   padding: 3px 5px;
+   text-align: center;
+   text-decoration: ;
+   display: inline-block;
+ }
+ #tablica:hover, #tablica:active {
+   background-color: green;
+   color: white;
+ }
+ h1 {
+   color: #994d00;
+   text-align: center;
+ }
+ h2 {
+   border:2px solid DarkSalmon;
+   color: #994d00;
+   text-align: center;
+ }
+ ul {
+   font-size:25px;
+   border:2px solid Chocolate;
+   color: #994d00;
+   text-align: left;
+ }
+ .flex {
+	 padding-right:1%;
+	 padding-left:1%;
+/*granada*/
+ #boxModel {
+   border-top: 10px solid rgb(153, 102, 51);
+   border-bottom: 10px solid #86592d;
+ }
+ h1 {
+   color: #994d00;
+   text-align: center;
+ }
+ 
+ video {
+   width: 320px;
+ }
+/*sevilla*/
+ .beige {
+   color: #996600;
+   font-size:3vw;
+ }
+/*ronda*/
+ h1 {
+   color: #994d00;
+   text-align: center;
+ }
+ div + h1 {
+   background-color: yellow;
+ }
+ a[target]{
+   border: 3px solid pink;
+   font-size:3vw;
+ }
+ p.gb::first-letter {
+   font-size: 200%;
+ }
